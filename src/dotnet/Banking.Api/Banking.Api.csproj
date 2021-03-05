@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Banking.Infra\Banking.Infra.csproj" />
+    <ProjectReference Include="..\Infra.IOC\Infra.IOC.csproj" />
   </ItemGroup>
 
 

@@ -63,3 +63,14 @@ C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Banking.Infra.pdb
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Banking.Domain.pdb
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\obj\Debug\netcoreapp3.1\Banking.Api.csproj.CopyComplete
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Banking.Services.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Infra.Bus.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Infra.IOC.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Infra.IOC.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Banking.Services.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Api\bin\Debug\netcoreapp3.1\Infra.Bus.pdb

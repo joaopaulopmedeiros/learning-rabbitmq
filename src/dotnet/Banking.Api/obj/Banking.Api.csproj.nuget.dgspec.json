@@ -33,6 +33,9 @@
             "projectReferences": {
               "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj": {
                 "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj"
+              },
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\Infra.IOC.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\Infra.IOC.csproj"
               }
             }
           }
@@ -187,6 +190,284 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\Banking.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\Banking.Services.csproj",
+        "projectName": "Banking.Services",
+        "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\Banking.Services.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Domain\\Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Domain\\Banking.Domain.csproj"
+              },
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj",
+        "projectName": "Infra.Bus",
+        "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\Infra.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\Infra.IOC.csproj",
+        "projectName": "Infra.IOC",
+        "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\Infra.IOC.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Infra\\Banking.Infra.csproj"
+              },
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\Banking.Services.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Banking.Services\\Banking.Services.csproj"
+              },
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
