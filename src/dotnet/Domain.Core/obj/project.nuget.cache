@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jNBO5NtBS14IpZQHSphk2jjN9NXxMtZSEQy+03iEkjX4OWKiTvJMcvM6zBXlmGVOMerrTSYH36llbApBRSTiuA==",
+  "dgSpecHash": "hCEcgxywBB2emHdXRGca+tO3JbKtkI+g5OJRcBffrHKrQnoIrQLEdidnUy3jpNZ7BjBj3C3wvCh7fUsRX4rAtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Domain.Core\\Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\indra\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
