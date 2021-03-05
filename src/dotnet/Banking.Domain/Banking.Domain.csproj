@@ -4,4 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="RabbitMQ\Commands\" />
+    <Folder Include="RabbitMQ\Events\" />
+    <Folder Include="RabbitMQ\EventHandlers\" />
+    <Folder Include="RabbitMQ\CommandHandlers\" />
+  </ItemGroup>
+
 </Project>

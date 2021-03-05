@@ -1,0 +1,9 @@
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\bin\Debug\netcoreapp3.1\Banking.Domain.deps.json
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\bin\Debug\netcoreapp3.1\Banking.Domain.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\bin\Debug\netcoreapp3.1\Banking.Domain.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.csprojAssemblyReference.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.AssemblyInfo.cs
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Domain\obj\Debug\netcoreapp3.1\Banking.Domain.pdb
