@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ooMlHgwuq8GuLmosjLYBH7Vu5pBFkDbe9GcycgdmAcq8hqXMFIokmWJuSvKG7dWApbhsvquOJlKjCwK004/Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\indra\\source\\repos\\Outros\\learning-rabbitmq\\src\\dotnet\\Infra.Bus\\Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\indra\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
