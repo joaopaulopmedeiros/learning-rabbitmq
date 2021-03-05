@@ -4,7 +4,15 @@
 <h1 align="center">RabbitMQ</h1>
 
 ## What's it?
+The most widely deployed open source message broker.
 
 ## How to install?
+- [Access this link](https://www.rabbitmq.com/download.html)
+- Pay attention to the requirements, such as Erlang.
 
 ## Dashboard
+- Run on terminal: `rabbitmq-plugins enable rabbitmq_management`
+- Access on browser: http://localhost:15672/#/
+- Type the default credentials (login and password are equal to 'guest' )
+- You should get the final result:
+<img src="./.github/dashboard.png"/>
