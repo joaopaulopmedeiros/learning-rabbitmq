@@ -12,3 +12,9 @@ C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\De
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.csproj.CopyComplete
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.dll
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Domain.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Infra.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Services.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Infra.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Services.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Banking.Domain.pdb

@@ -7,3 +7,8 @@ C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\obj\Debug\netcoreapp3.1\Banking.Services.csproj.CoreCompileInputs.cache
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\obj\Debug\netcoreapp3.1\Banking.Services.dll
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\obj\Debug\netcoreapp3.1\Banking.Services.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\bin\Debug\netcoreapp3.1\Banking.Domain.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\bin\Debug\netcoreapp3.1\Banking.Infra.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\bin\Debug\netcoreapp3.1\Banking.Domain.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\bin\Debug\netcoreapp3.1\Banking.Infra.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Services\obj\Debug\netcoreapp3.1\Banking.Services.csproj.CopyComplete
