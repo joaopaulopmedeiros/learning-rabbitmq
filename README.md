@@ -18,15 +18,15 @@ The most widely deployed open source message broker.
 <img src="./.github/dashboard.png"/>
 
 ## Basic commands
-### Stop rabbitmq server
-`rabbitmqctl stop_app` 
-### Start rabbitmq server
-`rabbitmqctl start_app` 
-### Reset rabbitmq server
-`rabbitmqctl reset` <br/>
-Obs: be careful, it deletes every past configuration.
+- Stop rabbitmq server
+  - `rabbitmqctl stop_app` 
+- Start rabbitmq server
+  - `rabbitmqctl start_app` 
+- Reset rabbitmq server
+  - `rabbitmqctl reset` <br/>
+  - Obs: be careful, it deletes every past configuration.
 
-### Add user to rabbitmq management area with full permision granted
-`rabbitmqctl add_user <login> <password>` <br/>
-`rabbitmqctl set_user_tags <login> administrator` <br/>
-`rabbitmqctl set_permissions -p / <login> ".*" ".*" ".*"` <br/>
+- Add user to rabbitmq management area with full permision granted
+  - `rabbitmqctl add_user <login> <password>` <br/>
+  - `rabbitmqctl set_user_tags <login> administrator` <br/>
+  - `rabbitmqctl set_permissions -p / <login> ".*" ".*" ".*"` <br/>
