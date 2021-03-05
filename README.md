@@ -30,3 +30,10 @@ The most widely deployed open source message broker.
   - `rabbitmqctl add_user <login> <password>` <br/>
   - `rabbitmqctl set_user_tags <login> administrator` <br/>
   - `rabbitmqctl set_permissions -p / <login> ".*" ".*" ".*"` <br/>
+
+## Sugestion of studying materials
+### en
+- [Official documentation](https://www.rabbitmq.com/)
+- [Getting Started .NET Core Microservices RabbitMQ](https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/)
+### pt-BR
+- [RabbitMQ: Uma visão geral by Full Cycle](https://www.youtube.com/watch?v=FcF5iufd2P0&list=LL&index=10)
