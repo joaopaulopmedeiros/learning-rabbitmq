@@ -1,0 +1,14 @@
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Infra.IOC.deps.json
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Infra.IOC.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Infra.IOC.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Infra.Bus.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\bin\Debug\netcoreapp3.1\Infra.Bus.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.csprojAssemblyReference.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.AssemblyInfoInputs.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.AssemblyInfo.cs
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.csproj.CoreCompileInputs.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.csproj.CopyComplete
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Infra.IOC\obj\Debug\netcoreapp3.1\Infra.IOC.pdb
