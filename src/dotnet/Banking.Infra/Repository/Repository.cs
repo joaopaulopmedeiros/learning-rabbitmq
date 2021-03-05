@@ -6,7 +6,7 @@ using System.Linq;
 using Banking.Infra.Repository.Interface;
 using System.Linq.Expressions;
 
-namespace Infra
+namespace Banking.Infra
 {
 
     public class Repository<TEntity> : IRepository<TEntity>

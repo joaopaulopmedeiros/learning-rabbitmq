@@ -10,3 +10,6 @@ C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\ob
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\obj\Debug\netcoreapp3.1\Banking.Infra.dll
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\obj\Debug\netcoreapp3.1\Banking.Infra.pdb
 C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\obj\Debug\netcoreapp3.1\Banking.Infra.genruntimeconfig.cache
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\bin\Debug\netcoreapp3.1\Banking.Domain.dll
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\bin\Debug\netcoreapp3.1\Banking.Domain.pdb
+C:\Users\indra\source\repos\Outros\learning-rabbitmq\src\dotnet\Banking.Infra\obj\Debug\netcoreapp3.1\Banking.Infra.csproj.CopyComplete
