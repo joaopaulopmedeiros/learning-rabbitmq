@@ -24,9 +24,9 @@ The most widely deployed open source message broker.
 `rabbitmqctl start_app` 
 ### Reset rabbitmq server
 `rabbitmqctl reset` <br/>
-Obs: Reset rabbitmq server (be careful, it deletes every past configuration).
+Obs: be careful, it deletes every past configuration.
 
 ### Add user to rabbitmq management area with full permision granted
-`rabbitmqctl add_user <login> <password>`
-`rabbitmqctl set_user_tags <login> administrator`
-`rabbitmqctl set_permissions -p / <login> ".*" ".*" ".*"`
+`rabbitmqctl add_user <login> <password>` <br/>
+`rabbitmqctl set_user_tags <login> administrator` <br/>
+`rabbitmqctl set_permissions -p / <login> ".*" ".*" ".*"` <br/>
